@@ -1,5 +1,5 @@
 # Unblocked Firefox
-Run Firefox in browser in a sandboxed platform running Ubantu Linux. 
+Run Firefox in your browser! Get past web blocks or just simply emulate Firefox.
 
 Mostly used for getting past Securly and other filters. This will also get past other internet blocks.
 
