@@ -8,4 +8,5 @@ Works on all devices, including chromebooks.
 
 ## To use this tool please head to our Releases page.
 
-## Thank You! :)
+Credits:
+Original forked on repl.it. Modified as needed.
